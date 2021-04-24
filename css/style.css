@@ -1,0 +1,180 @@
+body{
+    padding: 20px;
+    background-color: white;
+    width: 900px;
+    margin-left: 25%;
+}
+
+.ghline{
+    padding: auto;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 15px ;
+    background-color: gray;
+}
+
+#fbs {
+   position: relative;
+   right: -120px;
+   top: 50PX;
+}
+#fbs2
+{
+    position: relative;
+    right: -170px;
+    top: 50px;  
+}
+
+body header ul {
+    padding: auto;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    list-style-type: none;
+    display: inline-flex;
+    
+
+}
+#hed1 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding:10px;
+   position: relative;
+   right: 5px;
+   bottom: 10px;
+    
+}
+main section h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+
+}
+main section img {
+ 
+}
+
+section legend ul {
+    padding: 20px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 50%;
+    margin-right: 0%;
+    list-style-type: none;
+    display: inline-flex;
+    
+   
+
+}
+
+#chkbox {
+    padding: 0px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-image:url(/images/list-bg.png);
+    background-color: #cccccc;
+}
+#li1 {
+    position: absolute;
+    left: 600px;
+}
+
+footer ul{
+    display: inline;
+    list-style-type: none;
+}
+footer img {
+
+position: relative;
+right:-10px;
+bottom: 100px;
+}
+
+footer p {
+    position: relative;
+left: 100px;
+width: 650px;
+
+}
+
+footer input {
+    position: relative;
+    left: 780px;
+    bottom: 60px;
+}
+
+#printimg{
+    width: 20px;
+    position: relative;
+    left: 880px;
+}
+
+#fotimg
+{
+  display: block;
+  margin-left: auto;
+margin-right: auto;}
+
+#fotp1{
+    display: block;
+    margin-left: 25%;
+  margin-right: auto;
+  position: relative;
+  bottom:  100px;
+
+
+}
+#fotp2{
+    display: block;
+    margin-left: 29%;
+  margin-right: auto;
+  position: relative;
+  bottom: 100px;
+}
+#fper {
+    font-size: 10px;
+    color: gray;
+    position: relative;
+    bottom: 20px;
+}
+
+#he1{
+    font-size: 36px;
+}
+#print {
+    font-size: 15px;
+    color: gray;
+    display: block;
+    margin-left: 25%;
+  margin-right: auto;
+  position: relative;
+  left: 625px;
+  top: 30px;
+}
+#shadw{
+    font-size: 15px;
+    color: gray;
+    display: block;
+  
+  margin-right: auto;
+  position: relative;
+  right: 160px;
+  top: 15px;
+
+}
+
+#boton{
+    background-color: #c78023; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
